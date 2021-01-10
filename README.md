@@ -12,9 +12,6 @@ Windows 10 / VS Code / WT / WSL2
 [![AZ104](https://strepo.blob.core.windows.net/github/az104.png)](https://www.youracclaim.com/badges/fbedc559-dd6e-41b2-ab04-56e2bb6ac855/public_url)
 [![AZ900](https://strepo.blob.core.windows.net/github/az900.png)](https://www.youracclaim.com/badges/b6b40f74-2984-440e-8685-65835ca2c8f1/public_url)
 
-Lo Wang, Shadow Warrior
-> _You no mess with Lo Wang!_ :yin_yang:
-
 ### Learning Spells :scroll:
  * Python
  * VST3
