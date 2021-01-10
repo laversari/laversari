@@ -2,7 +2,7 @@
 
 ### Skill Tree 🌲
 [![Terraform](https://strepo.blob.core.windows.net/github/terraform_32.png)](https://www.terraform.io/ "Terraform")
-[![AzureDevops](https://strepo.blob.core.windows.net/github/azdevops.png)](https://azure.microsoft.com/services/devops/ "Azure Devops")
+[![AzureDevops](https://strepo.blob.core.windows.net/github/azuredevops.png)](https://azure.microsoft.com/services/devops/ "Azure Devops")
 [![Jira](https://strepo.blob.core.windows.net/github/jira.png)](https://www.atlassian.com/software/jira "Jira")
 [![Ansible](https://strepo.blob.core.windows.net/github/ansible.png)](https://www.ansible.com/ "Ansible")
 [![GCP](https://strepo.blob.core.windows.net/github/gcp.png)](https://cloud.google.com/ "Google Cloud Plataform")
