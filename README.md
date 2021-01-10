@@ -1,6 +1,7 @@
 ### Stay awhile and listen! ![Cain](https://strepo.blob.core.windows.net/github/cain.gif)
 #
 ### Skill Tree 
+[![Terraform](https://strepo.blob.core.windows.net/github/terraform_32.png)](https://www.terraform.io/)
 Azure Devops / Jira / Terraform / Ansible / GCP / Docker / K8 / GitHub / C# / PowerShell / Bash / Ubuntu / Prometheus / Grafana / Slack
 
 ### Weapons :dagger: :bow_and_arrow:
