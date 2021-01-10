@@ -1,4 +1,4 @@
-### Stay awhile and listen!
+### Stay awhile and listen! ![Cain](https://strepo.blob.core.windows.net/github/cain.gif)
 #
 ### Skill Tree 
 Azure Devops / Jira / Terraform / Ansible / GCP / Docker / K8 / GitHub / C# / PowerShell / Bash / Ubuntu / Prometheus / Grafana / Slack
