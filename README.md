@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Stack
+
+### Achievments
+![AZ400](https://strepo.blob.core.windows.net/github/az400.png)
 <!--
 **laversari/laversari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
