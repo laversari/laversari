@@ -24,6 +24,14 @@ Windows 10 / VS Code / WT / WSL2
   * [How Music Really Works](https://www.howmusicreallyworks.com/)
  * [O Mundo Funk Carioca](https://www.amazon.com.br/mundo-funk-carioca-Antropologia-social-ebook/dp/B00JIWCPTU/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=o+mundo+funk+carioca&qid=1610265209&sr=8-1)
 
+### Find me in another realms
+[![Medium](https://strepo.blob.core.windows.net/github/medium.png)](https://medium.com/@laversari "Medium")
+[![LinkedIn](https://strepo.blob.core.windows.net/github/linkedin.png)](https://www.linkedin.com/in/laversari/ "LinkedIn")
+[![SoundCloud](https://strepo.blob.core.windows.net/github/soundcloud.png)](https://soundcloud.com/laversari "SoundCloud")
+[![Steam](https://strepo.blob.core.windows.net/github/steam.png)](https://steamcommunity.com/id/laversari "Steam")
+[![Discord](https://strepo.blob.core.windows.net/github/discord.png)](https://discordapp.com/users/121978780364308481 "Discord")
+
+
 #
 The Nameless One - Planescape: Torment
 > _Then this is my final question: **What can change the nature of a man?**_
