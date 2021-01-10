@@ -16,6 +16,8 @@
 [![Slack](https://strepo.blob.core.windows.net/github/slack.png)](https://slack.com/ "Slack")
 [![Bash](https://strepo.blob.core.windows.net/github/bash.png)](https://www.gnu.org/software/bash/ "Bash")
 [![Arduino](https://strepo.blob.core.windows.net/github/arduino.png)](https://www.arduino.cc/ "Arduino")
+[![NodeJS](https://strepo.blob.core.windows.net/github/nodejs.png)](https://nodejs.org/ "NodeJS")
+
 
 ### Weapons :dagger: :bow_and_arrow:
 [![Win10](https://strepo.blob.core.windows.net/github/win10.png)](https://www.microsoft.com/windows/ "Windows 10")
