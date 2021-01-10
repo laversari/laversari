@@ -6,6 +6,7 @@
 [![Jira](https://strepo.blob.core.windows.net/github/jira.png)](https://www.atlassian.com/software/jira "Jira")
 [![Ansible](https://strepo.blob.core.windows.net/github/ansible.png)](https://www.ansible.com/ "Ansible")
 [![GCP](https://strepo.blob.core.windows.net/github/gcp.png)](https://cloud.google.com/ "Google Cloud Plataform")
+[![Azure](https://strepo.blob.core.windows.net/github/azure.png)](https://azure.microsoft.com/ "Microsoft Azure")
 [![Kube](https://strepo.blob.core.windows.net/github/kube.png)](https://kubernetes.io/ "Kubernetes")
 [![Docker](https://strepo.blob.core.windows.net/github/docker.png)](https://www.docker.com/ "Docker")
 [![GitHub](https://strepo.blob.core.windows.net/github/github.png)](https://github.com/ "GitHub")
@@ -25,8 +26,9 @@
 [![PowerToys](https://strepo.blob.core.windows.net/github/powertoys.png)](https://github.com/microsoft/PowerToys "PowerToys")
 [![Edge](https://strepo.blob.core.windows.net/github/edge.png)](https://www.microsoft.com/edge "Edge")
 [![.NET](https://strepo.blob.core.windows.net/github/dotnet.png)](https://dotnet.microsoft.com/ ".NET")
-
-
+[![AZCli](https://strepo.blob.core.windows.net/github/azure.png)](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli "Azure CLI")
+[![GCPSdk](https://strepo.blob.core.windows.net/github/gcp.png)](https://cloud.google.com/sdk/docs/install "Google Cloud SDK")
+[![AWSCli](https://strepo.blob.core.windows.net/github/aws.png)](https://aws.amazon.com/cli/ "AWS CLI")
 
 ### Quests Completed :heavy_check_mark:	
 [![AZ400](https://strepo.blob.core.windows.net/github/az400_60.png)](https://www.youracclaim.com/badges/fa07fc2b-ca74-42fe-86ca-7c990b164e5a/public_url "DevOps Engineer Expert")
@@ -38,6 +40,7 @@
 [![Python](https://strepo.blob.core.windows.net/github/python.png)](https://www.python.org/ "Python")
 [![C++](https://strepo.blob.core.windows.net/github/cplus.png)](https://isocpp.org/ "C++")
 [![VST3](https://strepo.blob.core.windows.net/github/vst3.png)](https://steinbergmedia.github.io/vst3_doc/vstsdk/index.html "VST3")
+[![AWS](https://strepo.blob.core.windows.net/github/aws.png)](https://aws.amazon.com/ "AWS")
 
 ### Spell Books Reading 📖
  * [Monitoring Microservices and Containerized Applications](https://www.amazon.com.br/Monitoring-Microservices-Containerized-Applications-Configuration-ebook/dp/B08KHRGGK1/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=monitoring+microservices&qid=1610265267&sr=8-1)
