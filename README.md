@@ -36,6 +36,7 @@
 
 ### Learning Spells :scroll:
 [![Python](https://strepo.blob.core.windows.net/github/python.png)](https://www.python.org/ "Python")
+[![C++](https://strepo.blob.core.windows.net/github/cplus.png)](https://isocpp.org/ "C++")
 [![VST3](https://strepo.blob.core.windows.net/github/vst3.png)](https://steinbergmedia.github.io/vst3_doc/vstsdk/index.html "VST3")
 
 ### Spell Books Reading 📖
