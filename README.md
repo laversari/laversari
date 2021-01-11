@@ -1,24 +1,36 @@
 # Stay awhile and listen! ![Cain](https://strepo.blob.core.windows.net/github/cain.gif)
 
 ### Skill Tree 🌲
-[![Terraform](https://strepo.blob.core.windows.net/github/terraform_32.png)](https://www.terraform.io/ "Terraform")
-[![AzureDevops](https://strepo.blob.core.windows.net/github/azuredevops.png)](https://azure.microsoft.com/services/devops/ "Azure Devops")
-[![Jira](https://strepo.blob.core.windows.net/github/jira.png)](https://www.atlassian.com/software/jira "Jira")
-[![Ansible](https://strepo.blob.core.windows.net/github/ansible.png)](https://www.ansible.com/ "Ansible")
-[![GCP](https://strepo.blob.core.windows.net/github/gcp.png)](https://cloud.google.com/ "Google Cloud Plataform")
+#### Cloud
 [![Azure](https://strepo.blob.core.windows.net/github/azure.png)](https://azure.microsoft.com/ "Microsoft Azure")
-[![Kube](https://strepo.blob.core.windows.net/github/kube.png)](https://kubernetes.io/ "Kubernetes")
+[![GCP](https://strepo.blob.core.windows.net/github/gcp.png)](https://cloud.google.com/ "Google Cloud Plataform")
+[![DigitalOcean](https://strepo.blob.core.windows.net/github/digitalocean.png)](https://www.digitalocean.com/ "Digital Ocean")
+
+#### DevOps and SysAdmin
+[![AzureDevops](https://strepo.blob.core.windows.net/github/azuredevops.png)](https://azure.microsoft.com/services/devops/ "Azure Devops")
+[![Terraform](https://strepo.blob.core.windows.net/github/terraform_32.png)](https://www.terraform.io/ "Terraform")
+[![Ansible](https://strepo.blob.core.windows.net/github/ansible.png)](https://www.ansible.com/ "Ansible")
 [![Docker](https://strepo.blob.core.windows.net/github/docker.png)](https://www.docker.com/ "Docker")
-[![GitHub](https://strepo.blob.core.windows.net/github/github.png)](https://github.com/ "GitHub")
-[![CSharp](https://strepo.blob.core.windows.net/github/csharp.png)](https://docs.microsoft.com/en-us/dotnet/csharp/ "C#")
+[![Kube](https://strepo.blob.core.windows.net/github/kube.png)](https://kubernetes.io/ "Kubernetes")
 [![Prometheus](https://strepo.blob.core.windows.net/github/prometheus.png)](https://prometheus.io/ "Prometheus")
 [![Grafana](https://strepo.blob.core.windows.net/github/grafana.png)](https://grafana.com/ "Grafana")
-[![Slack](https://strepo.blob.core.windows.net/github/slack.png)](https://slack.com/ "Slack")
-[![Bash](https://strepo.blob.core.windows.net/github/bash.png)](https://www.gnu.org/software/bash/ "Bash")
-[![Arduino](https://strepo.blob.core.windows.net/github/arduino.png)](https://www.arduino.cc/ "Arduino")
+[![GitHub](https://strepo.blob.core.windows.net/github/github.png)](https://github.com/ "GitHub")
+
+#### Dev
+[![CSharp](https://strepo.blob.core.windows.net/github/csharp.png)](https://docs.microsoft.com/en-us/dotnet/csharp/ "C#")
+[![.NET](https://strepo.blob.core.windows.net/github/dotnet1.png)](https://dotnet.microsoft.com/ ".NET")
 [![NodeJS](https://strepo.blob.core.windows.net/github/nodejs.png)](https://nodejs.org/ "NodeJS")
+
+#### Business Tools
+[![Jira](https://strepo.blob.core.windows.net/github/jira.png)](https://www.atlassian.com/software/jira "Jira")
+[![Slack](https://strepo.blob.core.windows.net/github/slack.png)](https://slack.com/ "Slack")
+
+#### Data
 [![MongoDB](https://strepo.blob.core.windows.net/github/mongodb.png)](https://www.mongodb.com/ "MongoDB")
 [![ElasticSearch](https://strepo.blob.core.windows.net/github/elasticsearch.png)![Kibana](https://strepo.blob.core.windows.net/github/kibana.png)](https://www.elastic.co/elastic-stack "Elastic Stack")
+
+#### Misc
+[![Arduino](https://strepo.blob.core.windows.net/github/arduino.png)](https://www.arduino.cc/ "Arduino")
 
 
 
@@ -26,11 +38,11 @@
 [![Win10](https://strepo.blob.core.windows.net/github/win10.png)](https://www.microsoft.com/windows/ "Windows 10")
 [![VSCode](https://strepo.blob.core.windows.net/github/vscode.png)](https://code.visualstudio.com/ "Visual Studio Code")
 [![PowerShell](https://strepo.blob.core.windows.net/github/pwsh.png)](https://github.com/PowerShell/PowerShell "PowerShell Core")
+[![Bash](https://strepo.blob.core.windows.net/github/bash.png)](https://www.gnu.org/software/bash/ "Bash")
 [![WindowsTerminal](https://strepo.blob.core.windows.net/github/wt.png)](https://github.com/microsoft/terminal "Windows Terminal")
 [![WSL2](https://strepo.blob.core.windows.net/github/ubuntu.png)](https://www.terraform.io/ "Ubuntu WSL2")
 [![PowerToys](https://strepo.blob.core.windows.net/github/powertoys.png)](https://github.com/microsoft/PowerToys "PowerToys")
 [![Edge](https://strepo.blob.core.windows.net/github/edge.png)](https://www.microsoft.com/edge "Edge")
-[![.NET](https://strepo.blob.core.windows.net/github/dotnet1.png)](https://dotnet.microsoft.com/ ".NET")
 [![AZCli](https://strepo.blob.core.windows.net/github/azure.png)](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli "Azure CLI")
 [![GCPSdk](https://strepo.blob.core.windows.net/github/gcp.png)](https://cloud.google.com/sdk/docs/install "Google Cloud SDK")
 [![AWSCli](https://strepo.blob.core.windows.net/github/aws.png)](https://aws.amazon.com/cli/ "AWS CLI")
