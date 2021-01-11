@@ -1,7 +1,7 @@
 
 # Stay awhile and listen! 
 
-### Character Sheet
+### Character Sheet 📝
 **Race**: Human <br>
 **Class**: Artificier <br>
 **Background**: Outlander <br>
