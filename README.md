@@ -4,7 +4,7 @@
 **Race**: Changeling <br>
 **Class**: Automation Wizard <br>
 **Background**: Outlander <br>
-**Alignment**: Chaotic Good <br>
+**Alignment**: Chaotic Neutral <br>
 **Level**: 26
 #
 
