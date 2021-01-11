@@ -2,12 +2,11 @@
 
 ### Character Sheet
 **Race**: Human <br>
-**Class**: Artificier <br>
+**Class**: Artificier <br>                                     
 **Background**: Outlander <br>
 **Alignment**: Chaotic Neutral <br>
 **Level**: 26
 #
-
 ### Skill Tree 🌲
 #### Business Tools
 [![Jira](https://strepo.blob.core.windows.net/github/jira.png)](https://www.atlassian.com/software/jira "Jira")
