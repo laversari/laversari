@@ -1,8 +1,8 @@
 # Stay awhile and listen! ![Cain](https://strepo.blob.core.windows.net/github/cain.gif)
 
 ### Character Sheet
-**Race**: Changeling <br>
-**Class**: Computer Rogue <br>
+**Race**: Human <br>
+**Class**: Artificier <br>
 **Background**: Outlander <br>
 **Alignment**: Chaotic Neutral <br>
 **Level**: 26
