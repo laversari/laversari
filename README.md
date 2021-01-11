@@ -17,6 +17,9 @@
 [![Bash](https://strepo.blob.core.windows.net/github/bash.png)](https://www.gnu.org/software/bash/ "Bash")
 [![Arduino](https://strepo.blob.core.windows.net/github/arduino.png)](https://www.arduino.cc/ "Arduino")
 [![NodeJS](https://strepo.blob.core.windows.net/github/nodejs.png)](https://nodejs.org/ "NodeJS")
+[![MongoDB](https://strepo.blob.core.windows.net/github/mongodb.png)](https://www.mongodb.com/ "MongoDB")
+[![ElasticSearch](https://strepo.blob.core.windows.net/github/elasticsearch.png)![Kibana](https://strepo.blob.core.windows.net/github/kibana.png)](https://www.elastic.co/elastic-stack "Elastic Stack")
+
 
 
 ### Weapons :dagger: :bow_and_arrow:
