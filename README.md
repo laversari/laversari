@@ -9,37 +9,13 @@
 **Level**: 26
 #
 ### Skill Tree 🌲
-#### Business Tools
-[![Jira](https://strepo.blob.core.windows.net/github/jira.png)](https://www.atlassian.com/software/jira "Jira")
-[![Slack](https://strepo.blob.core.windows.net/github/slack.png)](https://slack.com/ "Slack")
+|Business Tools|Cloud|Data|Dev|
+|--------------|-----|----|---|
+|[![Jira](https://strepo.blob.core.windows.net/github/jira.png)](https://www.atlassian.com/software/jira "Jira") [![Slack](https://strepo.blob.core.windows.net/github/slack.png)](https://slack.com/ "Slack")| [![Azure](https://strepo.blob.core.windows.net/github/azure.png)](https://azure.microsoft.com/ "Microsoft Azure") [![DigitalOcean](https://strepo.blob.core.windows.net/github/digitalocean.png)](https://www.digitalocean.com/ "Digital Ocean") [![GCP](https://strepo.blob.core.windows.net/github/gcp.png)](https://cloud.google.com/ "Google Cloud Plataform")|[![ElasticSearch](https://strepo.blob.core.windows.net/github/elasticsearch.png)![Kibana](https://strepo.blob.core.windows.net/github/kibana.png)](https://www.elastic.co/elastic-stack "Elastic Stack") [![MongoDB](https://strepo.blob.core.windows.net/github/mongodb.png)](https://www.mongodb.com/ "MongoDB")|[![CSharp](https://strepo.blob.core.windows.net/github/csharp.png)](https://docs.microsoft.com/en-us/dotnet/csharp/ "C#") [![.NET](https://strepo.blob.core.windows.net/github/dotnet1.png)](https://dotnet.microsoft.com/ ".NET") [![NodeJS](https://strepo.blob.core.windows.net/github/nodejs.png)](https://nodejs.org/ "NodeJS")|
 
-#### Cloud
-[![Azure](https://strepo.blob.core.windows.net/github/azure.png)](https://azure.microsoft.com/ "Microsoft Azure")
-[![DigitalOcean](https://strepo.blob.core.windows.net/github/digitalocean.png)](https://www.digitalocean.com/ "Digital Ocean")
-[![GCP](https://strepo.blob.core.windows.net/github/gcp.png)](https://cloud.google.com/ "Google Cloud Plataform")
-
-#### Data
-[![ElasticSearch](https://strepo.blob.core.windows.net/github/elasticsearch.png)![Kibana](https://strepo.blob.core.windows.net/github/kibana.png)](https://www.elastic.co/elastic-stack "Elastic Stack")
-[![MongoDB](https://strepo.blob.core.windows.net/github/mongodb.png)](https://www.mongodb.com/ "MongoDB")
-
-#### Dev
-[![CSharp](https://strepo.blob.core.windows.net/github/csharp.png)](https://docs.microsoft.com/en-us/dotnet/csharp/ "C#")
-[![.NET](https://strepo.blob.core.windows.net/github/dotnet1.png)](https://dotnet.microsoft.com/ ".NET")
-[![NodeJS](https://strepo.blob.core.windows.net/github/nodejs.png)](https://nodejs.org/ "NodeJS")
-
-#### DevOps and SysAdmin
-[![Ansible](https://strepo.blob.core.windows.net/github/ansible.png)](https://www.ansible.com/ "Ansible")
-[![AzureDevops](https://strepo.blob.core.windows.net/github/azuredevops.png)](https://azure.microsoft.com/services/devops/ "Azure Devops")
-[![Docker](https://strepo.blob.core.windows.net/github/docker.png)](https://www.docker.com/ "Docker")
-[![Grafana](https://strepo.blob.core.windows.net/github/grafana.png)](https://grafana.com/ "Grafana")
-[![Git](https://strepo.blob.core.windows.net/github/git.png)](https://git-scm.com/ "Git")
-[![GitHub](https://strepo.blob.core.windows.net/github/github.png)](https://github.com/ "GitHub")
-[![Kube](https://strepo.blob.core.windows.net/github/kube.png)](https://kubernetes.io/ "Kubernetes")
-[![Prometheus](https://strepo.blob.core.windows.net/github/prometheus.png)](https://prometheus.io/ "Prometheus")
-[![Terraform](https://strepo.blob.core.windows.net/github/terraform_32.png)](https://www.terraform.io/ "Terraform")
-
-#### Misc
-[![Arduino](https://strepo.blob.core.windows.net/github/arduino.png)](https://www.arduino.cc/ "Arduino")
+|DevOps and SysAdmin|Misc|
+|-------------------|----|
+|[![Ansible](https://strepo.blob.core.windows.net/github/ansible.png)](https://www.ansible.com/ "Ansible") [![AzureDevops](https://strepo.blob.core.windows.net/github/azuredevops.png)](https://azure.microsoft.com/services/devops/ "Azure Devops") [![Docker](https://strepo.blob.core.windows.net/github/docker.png)](https://www.docker.com/ "Docker") [![Grafana](https://strepo.blob.core.windows.net/github/grafana.png)](https://grafana.com/ "Grafana") [![Git](https://strepo.blob.core.windows.net/github/git.png)](https://git-scm.com/ "Git") [![GitHub](https://strepo.blob.core.windows.net/github/github.png)](https://github.com/ "GitHub") [![Kube](https://strepo.blob.core.windows.net/github/kube.png)](https://kubernetes.io/ "Kubernetes") [![Prometheus](https://strepo.blob.core.windows.net/github/prometheus.png)](https://prometheus.io/ "Prometheus") [![Terraform](https://strepo.blob.core.windows.net/github/terraform_32.png)](https://www.terraform.io/ "Terraform")|[![Arduino](https://strepo.blob.core.windows.net/github/arduino.png)](https://www.arduino.cc/ "Arduino") |
 #
 ### Weapons :dagger: :bow_and_arrow:
 [![AWSCli](https://strepo.blob.core.windows.net/github/aws.png)](https://aws.amazon.com/cli/ "AWS CLI")
