@@ -1,4 +1,5 @@
-# Stay awhile and listen! ![Cain](https://strepo.blob.core.windows.net/github/cain.gif)
+![Cain](https://strepo.blob.core.windows.net/github/cain.gif) <br>
+# Stay awhile and listen! 
 
 ### Character Sheet
 **Race**: Human <br>
@@ -17,7 +18,7 @@
 |-------------------|----|
 |[![Ansible](https://strepo.blob.core.windows.net/github/ansible.png)](https://www.ansible.com/ "Ansible") [![AzureDevops](https://strepo.blob.core.windows.net/github/azuredevops.png)](https://azure.microsoft.com/services/devops/ "Azure Devops") [![Docker](https://strepo.blob.core.windows.net/github/docker.png)](https://www.docker.com/ "Docker") [![Grafana](https://strepo.blob.core.windows.net/github/grafana.png)](https://grafana.com/ "Grafana") [![Git](https://strepo.blob.core.windows.net/github/git.png)](https://git-scm.com/ "Git") [![GitHub](https://strepo.blob.core.windows.net/github/github.png)](https://github.com/ "GitHub") [![Kube](https://strepo.blob.core.windows.net/github/kube.png)](https://kubernetes.io/ "Kubernetes") [![Prometheus](https://strepo.blob.core.windows.net/github/prometheus.png)](https://prometheus.io/ "Prometheus") [![Terraform](https://strepo.blob.core.windows.net/github/terraform_32.png)](https://www.terraform.io/ "Terraform")|[![Arduino](https://strepo.blob.core.windows.net/github/arduino.png)](https://www.arduino.cc/ "Arduino") |
 #
-### Weapons :dagger: :bow_and_arrow:
+### Weapons :dagger:
 [![AWSCli](https://strepo.blob.core.windows.net/github/aws.png)](https://aws.amazon.com/cli/ "AWS CLI")
 [![AZCli](https://strepo.blob.core.windows.net/github/azure.png)](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli "Azure CLI")
 [![Bash](https://strepo.blob.core.windows.net/github/bash.png)](https://www.gnu.org/software/bash/ "Bash")
