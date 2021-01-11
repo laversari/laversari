@@ -4,6 +4,7 @@
 **Race**: Human <br>
 **Class**: Artificier <br>
 **Background**: Outlander <br>
+**Profession**: Cloud Engineer and DevOps Enthusiast <br>
 **Alignment**: Chaotic Neutral <br>
 **Level**: 26
 #
