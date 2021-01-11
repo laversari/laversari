@@ -53,9 +53,9 @@
 ### Find me in another realms
 [![Medium](https://strepo.blob.core.windows.net/github/medium.png)](https://medium.com/@laversari "Medium")
 [![LinkedIn](https://strepo.blob.core.windows.net/github/linkedin.png)](https://www.linkedin.com/in/laversari/ "LinkedIn")
-[![SoundCloud](https://strepo.blob.core.windows.net/github/soundcloud.png)](https://soundcloud.com/laversari "SoundCloud")
+[![SoundCloud](https://strepo.blob.core.windows.net/github/soundcloud1.png)](https://soundcloud.com/laversari "SoundCloud")
 [![Steam](https://strepo.blob.core.windows.net/github/steam.png)](https://steamcommunity.com/id/laversari "Steam")
-[![Discord](https://strepo.blob.core.windows.net/github/discord.png)](https://discordapp.com/users/121978780364308481 "Discord")
+[![Discord](https://strepo.blob.core.windows.net/github/discord1.png)](https://discordapp.com/users/121978780364308481 "Discord")
 
 
 #
