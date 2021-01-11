@@ -1,5 +1,5 @@
-![Cain](https://strepo.blob.core.windows.net/github/cain.gif) <br>
-# Stay awhile and listen! 
+
+# ![Cain](https://strepo.blob.core.windows.net/github/cain.gif) Stay awhile and listen! 
 
 ### Character Sheet
 **Race**: Human <br>
