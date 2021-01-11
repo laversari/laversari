@@ -1,5 +1,5 @@
 
-# Stay awhile and listen! 
+# ![Cain](https://strepo.blob.core.windows.net/github/cain5.gif) Stay awhile and listen! 
 
 ### Character Sheet
 **Race**: Human <br>
@@ -12,7 +12,7 @@
 ### Skill Tree 🌲
 |Business|Cloud|Data|Dev|
 |--------------|-----|----|---|
-|[![Jira](https://strepo.blob.core.windows.net/github/jira.png)](https://www.atlassian.com/software/jira "Jira")[![Slack](https://strepo.blob.core.windows.net/github/slack.png)](https://slack.com/ "Slack")| [![Azure](https://strepo.blob.core.windows.net/github/azure.png)](https://azure.microsoft.com/ "Microsoft Azure") [![DigitalOcean](https://strepo.blob.core.windows.net/github/digitalocean.png)](https://www.digitalocean.com/ "Digital Ocean") [![GCP](https://strepo.blob.core.windows.net/github/gcp.png)](https://cloud.google.com/ "Google Cloud Plataform")|[![ElasticSearch](https://strepo.blob.core.windows.net/github/elasticsearch.png)![Kibana](https://strepo.blob.core.windows.net/github/kibana.png)](https://www.elastic.co/elastic-stack "Elastic Stack") [![MongoDB](https://strepo.blob.core.windows.net/github/mongodb.png)](https://www.mongodb.com/ "MongoDB")|[![CSharp](https://strepo.blob.core.windows.net/github/csharp.png)](https://docs.microsoft.com/en-us/dotnet/csharp/ "C#") [![.NET](https://strepo.blob.core.windows.net/github/dotnet1.png)](https://dotnet.microsoft.com/ ".NET") [![NodeJS](https://strepo.blob.core.windows.net/github/nodejs.png)](https://nodejs.org/ "NodeJS")|
+|[![Jira](https://strepo.blob.core.windows.net/github/jira.png)](https://www.atlassian.com/software/jira "Jira")[![Slack](https://strepo.blob.core.windows.net/github/slack.png)](https://slack.com/ "Slack")| [![Azure](https://strepo.blob.core.windows.net/github/azure.png)](https://azure.microsoft.com/ "Microsoft Azure") [![DigitalOcean](https://strepo.blob.core.windows.net/github/digitalocean.png)](https://www.digitalocean.com/ "Digital Ocean") [![GCP](https://strepo.blob.core.windows.net/github/gcp.png)](https://cloud.google.com/ "Google Cloud Plataform")|[![ElasticSearch](https://strepo.blob.core.windows.net/github/elasticsearch.png)![Kibana](https://strepo.blob.core.windows.net/github/kibana.png)](https://www.elastic.co/elastic-stack "Elastic Stack") [![MongoDB](https://strepo.blob.core.windows.net/github/mongodb.png)](https://www.mongodb.com/ "MongoDB")|[![CSharp](https://strepo.blob.core.windows.net/github/csharp.png)](https://docs.microsoft.com/en-us/dotnet/csharp/ "C#") [![.NET](https://strepo.blob.core.windows.net/github/dotnet1.png)](https://dotnet.microsoft.com/ ".NET") [![NodeJS](https://strepo.blob.core.windows.net/github/nodejs.png)](https://nodejs.org/ "NodeJS") [![Azure Functions](https://strepo.blob.core.windows.net/github/azurefunc.png)](https://azure.microsoft.com/services/functions/ "Azure Functions")|
 
 |DevOps and SysAdmin|Misc|
 |-------------------|----|
