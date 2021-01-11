@@ -1,7 +1,7 @@
 # Stay awhile and listen! ![Cain](https://strepo.blob.core.windows.net/github/cain.gif)
 
 ### Character Sheet
-**Race**: Human <br>
+**Race**: Changeling <br>
 **Class**: Automation Wizard <br>
 **Background**: Outlander <br>
 **Alignment**: Chaotic Good <br>
