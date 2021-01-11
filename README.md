@@ -2,7 +2,7 @@
 
 ### Character Sheet
 **Race**: Changeling <br>
-**Class**: Automation Wizard <br>
+**Class**: Computer Rogue <br>
 **Background**: Outlander <br>
 **Alignment**: Chaotic Neutral <br>
 **Level**: 26
