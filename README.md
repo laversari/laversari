@@ -27,7 +27,7 @@
 [![WSL2](https://strepo.blob.core.windows.net/github/ubuntu.png)](https://www.terraform.io/ "Ubuntu WSL2")
 [![PowerToys](https://strepo.blob.core.windows.net/github/powertoys.png)](https://github.com/microsoft/PowerToys "PowerToys")
 [![Edge](https://strepo.blob.core.windows.net/github/edge.png)](https://www.microsoft.com/edge "Edge")
-[![.NET](https://strepo.blob.core.windows.net/github/dotnet.png)](https://dotnet.microsoft.com/ ".NET")
+[![.NET](https://strepo.blob.core.windows.net/github/dotnet1.png)](https://dotnet.microsoft.com/ ".NET")
 [![AZCli](https://strepo.blob.core.windows.net/github/azure.png)](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli "Azure CLI")
 [![GCPSdk](https://strepo.blob.core.windows.net/github/gcp.png)](https://cloud.google.com/sdk/docs/install "Google Cloud SDK")
 [![AWSCli](https://strepo.blob.core.windows.net/github/aws.png)](https://aws.amazon.com/cli/ "AWS CLI")
