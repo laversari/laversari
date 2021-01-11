@@ -22,7 +22,7 @@
 ### Weapons :dagger: :bow_and_arrow:
 [![Win10](https://strepo.blob.core.windows.net/github/win10.png)](https://www.microsoft.com/windows/ "Windows 10")
 [![VSCode](https://strepo.blob.core.windows.net/github/vscode.png)](https://code.visualstudio.com/ "Visual Studio Code")
-[![PowerShell](https://strepo.blob.core.windows.net/github/powershell.png)](https://github.com/PowerShell/PowerShell "PowerShell Core")
+[![PowerShell](https://strepo.blob.core.windows.net/github/pwsh.png)](https://github.com/PowerShell/PowerShell "PowerShell Core")
 [![WindowsTerminal](https://strepo.blob.core.windows.net/github/wt.png)](https://github.com/microsoft/terminal "Windows Terminal")
 [![WSL2](https://strepo.blob.core.windows.net/github/ubuntu.png)](https://www.terraform.io/ "Ubuntu WSL2")
 [![PowerToys](https://strepo.blob.core.windows.net/github/powertoys.png)](https://github.com/microsoft/PowerToys "PowerToys")
