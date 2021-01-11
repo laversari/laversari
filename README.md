@@ -40,7 +40,7 @@
 
 ### Learning Spells :scroll:
 [![Python](https://strepo.blob.core.windows.net/github/python.png)](https://www.python.org/ "Python")
-[![C++](https://strepo.blob.core.windows.net/github/cplus.png)](https://isocpp.org/ "C++")
+[![C++](https://strepo.blob.core.windows.net/github/cpp.png)](https://isocpp.org/ "C++")
 [![VST3](https://strepo.blob.core.windows.net/github/vst3.png)](https://steinbergmedia.github.io/vst3_doc/vstsdk/index.html "VST3")
 [![AWS](https://strepo.blob.core.windows.net/github/aws.png)](https://aws.amazon.com/ "AWS")
 
