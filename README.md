@@ -2,7 +2,7 @@
 
 ### Character Sheet
 **Race**: Human <br>
-**Class**: Artificier <br>                                     
+**Class**: Artificier <br>
 **Background**: Outlander <br>
 **Alignment**: Chaotic Neutral <br>
 **Level**: 26
