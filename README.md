@@ -36,6 +36,8 @@
 [![C++](https://strepo.blob.core.windows.net/github/cpp.png)](https://isocpp.org/ "C++")
 [![Python](https://strepo.blob.core.windows.net/github/python.png)](https://www.python.org/ "Python")
 [![VST3](https://strepo.blob.core.windows.net/github/vst3.png)](https://steinbergmedia.github.io/vst3_doc/vstsdk/index.html "VST3")
+Envoy
+Istio
 #
 ### Spell Books Reading 📖
  * [Monitoring Microservices and Containerized Applications](https://www.amazon.com.br/Monitoring-Microservices-Containerized-Applications-Configuration-ebook/dp/B08KHRGGK1/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=monitoring+microservices&qid=1610265267&sr=8-1)
